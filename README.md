@@ -2,10 +2,13 @@
 
 ### このアプリについて
 ターミナル上で動くRubyアプリです  
-Livedoor が提供しているお天気WebサービスAPIを取得しています  
+Livedoorが提供しているお天気WebサービスAPIを取得しています  
+表示内容: 天気予報、最高気温、最低気温  
 天気データ：http://weather.livedoor.com/forecast/rss/primary_area.xml  
+
 Ruby 2.5.1  
-作成者: 津江明秀(TECH::EXPERT63期 なんば校)
+作成者: 津江明秀(TECH::EXPERT63期 なんば校)  
+発表会プレゼン:  
 
 ### 使い方
 1.まずはダウンロード  
