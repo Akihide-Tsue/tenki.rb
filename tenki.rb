@@ -32,11 +32,17 @@ def info(place)
   res = Net::HTTP.get(uri)
   res = JSON.parse(res)
   forecasts = res["forecasts"]
+  today_forecast = forecasts[0]
+  today_telop = today_forecast["telop"]
   tomorrow_forecast = forecasts[1]
-  telop = tomorrow_forecast["telop"]
+  tomorrow_telop = tomorrow_forecast["telop"]
   location = res["location"]["city"]
-  day = Date.today.day + 1
-  puts "#{day}日、#{location}は#{telop}でしょう"
+  today = Date.today.day
+  tommorow = Date.today.day + 1
+  puts "  #{location}の天気：
+  今日(#{today}日)：#{today_telop}、
+  明日(#{tommorow}日)：#{tomorrow_telop}"
+
 end
 
 def end_program
