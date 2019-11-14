@@ -12,10 +12,12 @@ Ruby 2.5.1
 2.ターミナル: tenki.rbのディレクトリで $ruby tenki.rb  
 3.東京か大阪の天気をチェックできます
 
-### その他
-1.ブラウザで動くrailsでお天気アプリを作成しました。  
+### その他 (天気アプリプロジェクト)
+1.今回のアプリ
+
+2.ブラウザで動くrailsでお天気アプリを作成しました。  
     URL:
 
-2.LINEでお天気お知らせ+会話ができるBOTを作成しました。  
+3.LINEでお天気お知らせ+会話ができるBOTを作成しました。  
     LINE友達ID: @744xeoxb　(無料枠のため50名限定)  
     GitHub: https://github.com/Akihide-Tsue/rainnoteice  
