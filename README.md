@@ -19,8 +19,9 @@ Ruby 2.5.1
 1.今回のアプリ  
 例: https://gyazo.com/4d1c50e54001e12fb5af560ec23fd27f
 
-2.ブラウザで動くrailsでお天気アプリを作成しました。  
-  URL:
+2.railsでブラウザで動くお天気アプリを作成しました。  
+  URL:https://tenki-news.herokuapp.com/  
+  GitHub:https://github.com/Akihide-Tsue/news  
 
 3.LINEでお天気お知らせ+会話ができるBOTを作成しました。  
   LINE友達ID: @744xeoxb　(無料枠のため50名限定)  
