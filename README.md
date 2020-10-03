@@ -7,17 +7,17 @@ Livedoorが提供しているお天気WebサービスAPIを取得しています
 天気データ：http://weather.livedoor.com/forecast/rss/primary_area.xml  
 
 Ruby 2.5.1  
-作成者: 津江明秀(TECH::EXPERT63期 なんば校)  
-発表会プレゼン:  
+作成者: 津江明秀
+発表会プレゼン: https://prezi.com/p/vd8any-wrskr/prezi-next-japanese-template/
 
 ### 使い方 (下記にキャプチャを貼ってあります)
-1.まずはダウンロード  
+1.git clone  
 2.ターミナル: tenki.rbのディレクトリで $ruby tenki.rb  
 3.5都市の天気と最高最低気温をチェックできます
 
 ### その他 (天気アプリ作成プロジェクト)
 1.今回のアプリ  
-例: https://gyazo.com/4d1c50e54001e12fb5af560ec23fd27f
+[![Image from Gyazo](https://gyazo.com/4d1c50e54001e12fb5af560ec23fd27f.png)](https://gyazo.com/4d1c50e54001e12fb5af560ec23fd27f)
 
 2.railsでブラウザで動くお天気アプリを作成しました。  
   URL:https://tenki-news.herokuapp.com/  
@@ -26,4 +26,4 @@ Ruby 2.5.1
 3.LINEでお天気お知らせ+会話ができるBOTを作成しました。  
   LINE友達ID: @744xeoxb　(無料枠のため50名限定)  
   GitHub: https://github.com/Akihide-Tsue/rainnoteice  
-  例: https://gyazo.com/1c201866ad9a64026ecc1411564f0147
+  [![Image from Gyazo](https://gyazo.com/1c201866ad9a64026ecc1411564f0147.png)](https://gyazo.com/1c201866ad9a64026ecc1411564f0147)
